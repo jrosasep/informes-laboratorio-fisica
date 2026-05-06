@@ -54,7 +54,7 @@ python analisis-torque-momento-inercia.py
 
 ## Agradecimientos
 
-Estos informes fueron desarrollados en contexto de trabajo experimental y colaborativo. Agradezco especialmente a quienes aparecen como compañeros y compañeras de trabajo en los informes: **Fabián Contreras Muñoz**, **Javier Chandia Valdés**, **Mario Díaz San Martín**, **Martin Fierro Sagredo** y **N. Ulloa C.**
+Estos informes fueron desarrollados en contexto de trabajo experimental y colaborativo para las asignaturas de pregrado mencionadas. Agradezco especialmente a quienes aparecen como compañeros de trabajo en los informes: **Fabián Contreras Muñoz**, **Javier Chandia Valdés**, **Mario Díaz San Martín**, **Martin Fierro Sagredo** y **N. Ulloa C.**
 
 También se agradece al profesor **Paulraj Manidurai** por la guía docente en las experiencias de laboratorio.
 
