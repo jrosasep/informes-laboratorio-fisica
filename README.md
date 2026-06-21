@@ -1,6 +1,6 @@
 # Informes de laboratorio — Física UdeC
 
-En este repositorio compilo los informes experimentales desarrollados durante cursos de laboratorio de la carrera de **Ciencias Físicas** en la **Universidad de Concepción**.
+En este repositorio compilo algunos informes de laboratorio que he desarrollado durante el pregrado de la carrera de **Ciencias Físicas** en la **Universidad de Concepción** en conjunto de algunos colegas.
 
 La carpeta está organizada en dos bloques principales:
 
