@@ -1,4 +1,4 @@
-# Informes de laboratorio — Física UdeC
+# Informes de laboratorio — Pregrado Cs. Físicas UdeC
 
 En este repositorio compilo algunos informes de laboratorio que he desarrollado durante el pregrado de la carrera de **Ciencias Físicas** en la **Universidad de Concepción** en conjunto de algunos colegas.
 
