@@ -42,6 +42,8 @@ informe-x/
 
 ## Agradecimientos
 
-Estos informes fueron desarrollados en contexto de trabajo experimental y colaborativo para las asignaturas de pregrado mencionadas. Agradezco especialmente a quienes aparecen como compañeros de trabajo en los informes: **Fabián Contreras Muñoz**, **Javier Chandia Valdés**, **Mario Díaz San Martín**, **Martin Fierro Sagredo** y **Nicolas Ulloa Campos**.
+Agradezco especialmente a mis colegas de trabajo en las experiencias de laboratorio y en la elaboración de los informes: **Fabián Contreras Muñoz**, **Javier Chandia Valdés**, **Mario Díaz San Martín**, **Martin Fierro Sagredo** y **Nicolas Ulloa Campos**.
 
-También se agradece al profesor **Paulraj Manidurai** por la guía docente en las experiencias de laboratorio.
+Agradezco también al profesor **Paulraj Manidurai** por la guía docente durante las experiencias de laboratorio.
+
+Reconozco el uso de **ChatGPT Plus** como herramienta de apoyo para la redacción, edición en LaTeX, búsqueda de fuentes para los marcos teóricos, organización del material, revisión de consistencia formal y asistencia en el desarrollo de algunos análisis numéricos en Python. El contenido final fue revisado, contrastado y editado antes de ser incorporado al repositorio.
